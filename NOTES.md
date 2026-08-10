@@ -7,3 +7,4 @@
 - 2026-08-06: refined morning checklist for daily commits.
 - Tip: keep each daily commit small and self-contained.
 - 2026-08-07: morning checklist reviewed, ready for today's commits.
+- 2026-08-10: new week reset, checklist confirmed for Monday commits.
