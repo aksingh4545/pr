@@ -1,5 +1,13 @@
 # pr
 
-This is only for the test.
+A small repo used to keep a daily GitHub contribution streak alive.
 
-Daily updates in progress. Now on day 13 of the streak. Tracking progress one commit at a time.
+## Streak
+
+Day 14 and counting — small, safe commits every day.
+
+## Conventions
+
+- 3 commits per day, spread across a few files.
+- No force-push, no history rewrites, no file deletions.
+- Keep changes trivial: journal entries, notes, and minor wording tweaks.
