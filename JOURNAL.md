@@ -7,3 +7,4 @@
 - 2026-08-13: small README polish and config comment.
 - 2026-08-15: reviewed weekly progress; steady cadence holding.
 - 2026-08-17: Monday session — three small commits across journal, notes, and README.
+- 2026-08-18: Tuesday session — journal entry, fresh note, and README wording tweak.
