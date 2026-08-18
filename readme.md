@@ -4,7 +4,7 @@ A small repo used to keep a daily GitHub contribution streak alive.
 
 ## Streak
 
-Day 16 and counting — small, safe commits every day.
+Day 17 and counting — small, safe commits every day.
 
 ## Conventions
 
