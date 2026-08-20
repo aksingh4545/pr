@@ -1,11 +1,7 @@
 # Journal
 
-- 2026-08-01: kicked off the daily streak challenge.
-- 2026-08-02: kept momentum; minor README tweaks.
-- 2026-08-05: added notes/ scaffold and a logging helper.
-- 2026-08-10: refined docs; cleaned up CHANGELOG wording.
-- 2026-08-13: small README polish and config comment.
-- 2026-08-15: reviewed weekly progress; steady cadence holding.
-- 2026-08-17: Monday session — three small commits across journal, notes, and README.
-- 2026-08-18: Tuesday session — journal entry, fresh note, and README wording tweak.
-- 2026-08-19: Wednesday session — journal entry, daily note, and README streak bump.
+## 2026-08-20 (Thursday)
+
+- Day 20 of the daily commit streak.
+- Added a short note under docs/ describing the streak-keeping routine.
+- Kept changes small and non-destructive.
