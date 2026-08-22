@@ -12,3 +12,6 @@ Started daily logging.
 
 ## 2026-08-07
 - Logged day 7 of the commit streak.
+
+## 2026-08-22
+- Logged day 22 of the commit streak.
